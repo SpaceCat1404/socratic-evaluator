@@ -1,0 +1,7 @@
+{
+  "name": "Socratic Evaluator",
+  "description": "An AI Viva Agent that evaluates students using the Socratic method.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

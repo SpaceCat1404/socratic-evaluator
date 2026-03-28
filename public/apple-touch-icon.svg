@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-label="Socratic Evaluator icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="40" fill="url(#bg)"/>
+  <circle cx="90" cy="74" r="40" fill="#ffffff" opacity="0.95"/>
+  <path d="M68 74h44M68 88h30" stroke="#1e1b4b" stroke-width="8" stroke-linecap="round"/>
+  <rect x="58" y="120" width="64" height="14" rx="7" fill="#ffffff" opacity="0.95"/>
+</svg>
